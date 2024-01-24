@@ -3,5 +3,4 @@ General storage
 
 # Links
 
-- Spotify
-https://github.com/spotify
+- Spotify https://github.com/spotify
