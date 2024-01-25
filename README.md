@@ -15,3 +15,6 @@ General storage
 
 - BitCoin https://github.com/Maguines/Bitcoin-v0.1
 
+# Exploits
+
+- GTFObins https://gtfobins.github.io/
