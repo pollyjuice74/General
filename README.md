@@ -12,3 +12,6 @@ General storage
 - Google https://github.com/google
 
 - TikTok https://github.com/tiktok
+
+- BitCoin https://github.com/Maguines/Bitcoin-v0.1
+
