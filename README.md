@@ -18,3 +18,11 @@ General storage
 # Exploits
 
 - GTFObins https://gtfobins.github.io/
+
+- PayloadsAllTheThingsWeb https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/
+
+- OWASP https://owasp.org/
+
+- Metaspoit https://www.metasploit.com/
+
+- 
