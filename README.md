@@ -26,3 +26,10 @@ General storage
 - Metaspoit https://www.metasploit.com/
 
 - 
+
+# Manifold papers
+
+- Optimal Manifold Representation of Data:
+An Information Theoretic Approach
+ https://www.princeton.edu/~wbialek/our_papers/chigirev+bialek_04.pdf
+- Manifold learning: what, how, and why https://arxiv.org/pdf/2311.03757
