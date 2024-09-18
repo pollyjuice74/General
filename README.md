@@ -5,7 +5,7 @@ General links storage
 - NCCL
 https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html
 
--CUDA 
+- CUDA 
 https://docs.nvidia.com/cuda/
 
 - CS265 Big Data Systems
