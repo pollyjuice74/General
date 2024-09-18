@@ -1,6 +1,21 @@
 # General
 General links storage
 
+# NN scalability computational docs
+- NCCL
+https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html
+
+-CUDA 
+https://docs.nvidia.com/cuda/
+
+- CS265 Big Data Systems
+http://daslab.seas.harvard.edu/classes/cs265/
+
+- PyTorch Distributed
+https://pytorch.org/tutorials/beginner/dist_overview.html
+
+
+
 
 # Manifold papers
 
