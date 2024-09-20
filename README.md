@@ -1,6 +1,20 @@
 # General
 General links storage
 
+
+# Improvements upon Transformers 
+- Griffin
+https://arxiv.org/pdf/2402.19427
+
+- Deep Equilibrium Models
+https://arxiv.org/pdf/2401.08639
+
+
+# Probabilistic models
+- Pyro
+https://pyro.ai/examples/intro_long.html
+
+
 # NN scalability computational docs
 - NCCL
 https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html
