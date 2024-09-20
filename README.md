@@ -2,6 +2,11 @@
 General links storage
 
 
+# Bee stuff
+https://github.com/jachansantiago
+https://github.com/lqmeyers
+
+
 # Improvements upon Transformers 
 - Griffin
 https://arxiv.org/pdf/2402.19427
