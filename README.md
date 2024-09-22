@@ -1,12 +1,29 @@
 # General
 General links storage
 
+---
+
 
 # Bee stuff
 https://github.com/jachansantiago
 
 https://github.com/lqmeyers
 
+https://github.com/visionml/pytracking
+
+https://github.com/ultralytics/ultralytics
+
+https://pyav.org/docs/stable/index.html
+
+https://docs.cvat.ai/about/
+
+https://docs.ultralytics.com/modes/train/#why-choose-ultralytics-yolo-for-training
+
+https://docs.ultralytics.com/yolov5/
+
+https://app.cvat.ai/tasks
+
+https://www.kaggle.com/datasets/asad11914/coco-2017-keypoints
 
 # Improvements upon Transformers 
 - Griffin
