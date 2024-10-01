@@ -25,6 +25,10 @@ https://app.cvat.ai/tasks
 
 https://www.kaggle.com/datasets/asad11914/coco-2017-keypoints
 
+# Crypto
+
+- https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf
+
 # Improvements upon Transformers 
 - Griffin
 https://arxiv.org/pdf/2402.19427
